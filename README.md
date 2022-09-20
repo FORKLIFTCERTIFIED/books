@@ -1,1 +1,1 @@
-Just an archive of some books, GitHub is convenient :^)
+Just a repo of some books, GitHub is convenient :^)
